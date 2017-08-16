@@ -25,6 +25,8 @@ import android.widget.EditText;
 
 import java.lang.ref.WeakReference;
 
+import cn.beautyyan.yywebview.R;
+
 /**
  * <b>@项目名：</b> agentweb<br>
  * <b>@包名：</b>com.just.library<br>

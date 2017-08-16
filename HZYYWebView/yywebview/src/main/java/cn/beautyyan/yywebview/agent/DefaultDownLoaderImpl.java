@@ -14,6 +14,8 @@ import java.lang.ref.WeakReference;
 import java.util.LinkedList;
 import java.util.List;
 
+import cn.beautyyan.yywebview.R;
+
 /**
  * Created by cenxiaozhong on 2017/5/13.
  * source CODE  https://github.com/Justson/AgentWeb

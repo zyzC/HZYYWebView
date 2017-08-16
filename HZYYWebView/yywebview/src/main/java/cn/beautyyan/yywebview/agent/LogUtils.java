@@ -1,5 +1,6 @@
 package cn.beautyyan.yywebview.agent;
 
+import android.support.compat.BuildConfig;
 import android.util.Log;
 
 /**
